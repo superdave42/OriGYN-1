@@ -7,4 +7,6 @@ Using a 20mm piezo disc, small 3mm Renishaw ruby sphere stylus, 3d printed SLA h
 
 The arduino code has an output pin that can be used to drive LED indicator or 5V buzzer or....... www.dc-concepts.com
 album with prototyping pics and videos https://photos.app.goo.gl/zyJNR0YpI9Wkf3Bk1
+
+
 This is the probe stylus I used https://www.ebay.com/itm/RENISHAW-STYLUS-PROBE-CNC-CMM-RUBY-BALL-3MM-DIA-X-21MM-L-X-M3-THRED-FREE-SHIP/162921396880?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2057872.m2749.l2649
